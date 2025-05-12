@@ -1,3 +1,3 @@
 # airportdb-sql-analytics-
-analytics of data from mysql official website
+Analytics of data from mysql official website,
 The source data come from: https://dev.mysql.com/doc/airportdb/en/
